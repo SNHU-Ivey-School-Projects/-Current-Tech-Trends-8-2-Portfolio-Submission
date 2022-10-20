@@ -12,11 +12,10 @@ Answer: Computer Scientist use data science, robotics machine learning and compu
 
 
 Question: How do I approach a problem as a computer scientist?
-
 Answer: As a computer scientist it is important to scientifically analyze every component of a system and make sure test are cnsistently happening to ensure code quality. Delivering clean runnable code is important and vital for the approaching complex problems as a computer scientist.
 
-Question: What are my ethical responsibilities to the end user and the organization?
 
+Question: What are my ethical responsibilities to the end user and the organization?
 Privacy and Zero Tust Security Process Policies are essential for uplholding and complying with industry best coding standards.
 
 
