@@ -8,10 +8,12 @@ For this project work I created the neural network model that connected the data
 
 
 Question: What do computer scientists do and why does it matter?
+
 Answer: Computer Scientist use data science, robotics machine learning and computer programming methodologies and principle concepts to develop and improve computer systems, embedded software and  enrcrypted and decrypted cipher algorithms.
 
 
 Question: How do I approach a problem as a computer scientist?
+
 Answer: As a computer scientist it is important to scientifically analyze every component of a system and make sure test are cnsistently happening to ensure code quality. Delivering clean runnable code is important and vital for the approaching complex problems as a computer scientist.
 
 
